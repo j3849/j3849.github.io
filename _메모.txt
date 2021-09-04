@@ -1,0 +1,23 @@
+- github 의 public memo 
+
+https://github.com/j3849/publicMemo
+
+- qr코드 라이브러리 사용 
+
+https://hamait.tistory.com/297
+
+	웹뷰관련 링크 
+	http://blog.acronym.co.kr/528
+	http://kimhs20.com/wp/?p=334
+	https://opentutorials.org/module/1234/8081
+
+	QR 스캐너 관련 링크
+	http://hs36.tistory.com/36  
+ 
+https://blog.mnmsoft.co.kr/posts/qrRead/
+https://intunknown.tistory.com/516
+https://github.com/newbees2/H5_Scan
+
+- qr 코드 생성기 
+ 
+ https://ykarr.github.io/web/QR.html
