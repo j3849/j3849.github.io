@@ -1,6 +1,6 @@
 - github 의 public memo 
 
-https://github.com/j3849/publicMemo
+https://j3849.github.io/Memo.txt
 
 - qr코드 라이브러리 사용 
 
