@@ -1,21 +1,25 @@
 <!DOCTYPE html>
 <html>
-<body>
-<h1>우리은행 CBDC 계좌 QR Scanner </h1>
-</body>
+	<body>
+		<h1>우리은행 CBDC 계좌 QR Scanner </h1>
+	</body>
 </html>
 
 <script>
-function scan() {
-    android.doScan();
-}
 
-function setScanResult(result){
-    document.getElementById("result").value = result ;
-}
+	function scan() {
+	    android.doScan();
+	}
+
+	function setScanResult(result){
+	    document.getElementById("result").value = result ;
+	}
+
 </script>
-<input type="text" id="result" placeholder="qr 스캔" Value="">
-<button onclick="scan();"> qr scan </button>
 
-<P> 
-<a href="https://www.wooribank.com">우리은행 홈페이지로 이동 !</a> 
+	<input type="text" id="result" placeholder="qr 스캔" Value="">
+	<button onclick="scan();"> qr scan </button>
+
+	<P> 
+
+	<a href="https://www.wooribank.com">우리은행 홈페이지로 이동 !</a> 
