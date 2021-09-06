@@ -11,12 +11,18 @@
  
    *    adb install [FILENAME].apk
    *    adb install -r [FILENAME].apk : 설치된 어플을 재설치(단 데이터 삭제는 불가)
- 
+
+
+
+- 안드로이드 유선 디버깅 
+  https://welcome1208.tistory.com/78
 
 
 - github 의 public memo 
 
 https://j3849.github.io/Memo.txt
+
+
 
 - qr코드 라이브러리 사용 
 
@@ -33,6 +39,8 @@ https://hamait.tistory.com/297
 https://blog.mnmsoft.co.kr/posts/qrRead/
 https://intunknown.tistory.com/516
 https://github.com/newbees2/H5_Scan
+
+
 
 - qr 코드 생성기 
  
