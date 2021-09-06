@@ -1,3 +1,19 @@
+- ADB 
+
+1)  Android Studio 가 정상적으로 동작하고 있다면
+    ADB 는 설치가 되어 있는 상태. 
+ 
+    windows :  C:\Users\<<<유저계정>>>\AppData\Local\Android\Sdk\platform-tools> 
+
+2) https://hjiee.tistory.com/entry/Android-Mac%EC%97%90%EC%84%9C-Android-SDK-Path-%EC%84%A4%EC%A0%95-%EB%B0%8F-%EB%AC%B4%EC%84%A0-ADB-%EC%97%B0%EA%B2%B0
+ 
+3) https://superfelix.tistory.com/89
+ 
+   *    adb install [FILENAME].apk
+   *    adb install -r [FILENAME].apk : 설치된 어플을 재설치(단 데이터 삭제는 불가)
+ 
+
+
 - github 의 public memo 
 
 https://j3849.github.io/Memo.txt
