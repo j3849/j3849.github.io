@@ -1,3 +1,6 @@
+- apk 말기 
+https://lakue.tistory.com/32
+
 - ADB 
 
 1)  Android Studio 가 정상적으로 동작하고 있다면
