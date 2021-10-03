@@ -4,7 +4,117 @@
 항상 파일이 해당 되는 디렉토리내의 파일에 이동 할 것. 
 
 
-2021-10-04-월 
+------------------------------------------------------
+이동완료 전 데이터
+------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------
+이동완료 된 데이터 
+------------------------------------------------------
+
+///////////////////////////////////////////////////
+something
+///////////////////////////////////////////////////
+
+
+///////////////////////////////////////////////////
+something
+///////////////////////////////////////////////////
+
+
+///////////////////////////////////////////////////
+주요URL 
+///////////////////////////////////////////////////
+
+- debbuger
+https://developer.android.com/codelabs/android-training-using-debugger?index=..%2F..%2Fandroid-training&hl=ko#2
+
+- view구조
+https://www.raywenderlich.com/142-android-custom-view-tutorial#toc-anchor-004
+
+- dpi와 디자인 가이드 적용
+https://kplog.tistory.com/164
+
+- 재플린 UI적용
+https://www.youtube.com/watch?v=Uabhzg0PGrA
+
+- flagment 
+https://developer.android.com/guide/fragments
+
+- context 
+http://sjava.net/2019/11/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8context/
+
+
+- dialog box
+1. 다이알로박스 
+-> 안드로이드 제공 AlertDialog 로 간단하게 제공하고 
+   커스텀은 천천히 만든다. 
+   https://developer.android.com/guide/topics/ui/dialogs?hl=ko
+
+- 설치 어플 확인 
+https://superwony.tistory.com/16
+https://kanais2.tistory.com/288
+
+- apk 말기 
+https://lakue.tistory.com/32 
+
+
+- qr코드 라이브러리 사용 
+
+https://hamait.tistory.com/297
+
+- 웹뷰관련 링크 
+https://ddolcat.tistory.com/597
+http://blog.acronym.co.kr/528
+http://kimhs20.com/wp/?p=334
+https://opentutorials.org/module/1234/8081
+
+- QR 스캐너 관련 링크
+http://hs36.tistory.com/36  
  
+https://blog.mnmsoft.co.kr/posts/qrRead/
+https://intunknown.tistory.com/516
+https://github.com/newbees2/H5_Scan
 
 
+
+- qr 코드 생성기 
+ 
+ https://ykarr.github.io/web/QR.html
+
+
+ - 안드로이드 다른 앱의 특정 Activity 실행 방법.
+
+ https://helloit.tistory.com/288
+
+
+- 코틀린(Kotlin), 꼭 해야하나요?
+ https://gun0912.tistory.com/81
+
+
+- 안드로이드 중요자료 
+https://developer88.tistory.com/category/Android%20%EA%B0%9C%EB%B0%9C/Kotlin
+
+
+delveloper 주요 사이트 
+https://developer.android.com/docs?hl=ko
+https://developer.android.com/courses?hl=ko
+https://developer.android.com/codelabs/android-training-using-debugger?index=..%2F..%2Fandroid-training&hl=ko#0
+https://developer.android.com/guide/fragments
+https://developer.android.com/studio/debug?hl=ko
+https://developer.android.com/reference/kotlin/androidx/fragment/app/DialogFragment?hl=ko
+https://play.kotlinlang.org/#eyJ2ZXJzaW9uIjoiMS41LjAiLCJwbGF0Zm9ybSI6ImphdmEiLCJhcmdzIjoiIiwianNDb2RlIjoiIiwibm9uZU1hcmtlcnMiOnRydWUsInRoZW1lIjoiaWRlYSIsImNvZGUiOiIvKipcbiAqIFlvdSBjYW4gZWRpdCwgcnVuLCBhbmQgc2hhcmUgdGhpcyBjb2RlLiBcbiAqIHBsYXkua290bGlubGFuZy5vcmcgXG4gKi9cblxuZnVuIG1haW4oKSB7XG4gICAgcHJpbnRsbihcIkhlbGxvLCB3b3JsZCEhIVwiKVxufSJ9
+https://kotlinlang.org/docs/basic-syntax.html
+https://developer.android.com/guide/components/activities/activity-lifecycle
+https://developer.android.com/studio/build/application-id?hl=ko
+https://developer.android.com/topic/libraries/architecture/viewmodel
+https://developer.android.com/kotlin/coroutines?hl=ko
+https://developer.android.com/kotlin/coroutines
+https://developer.android.com/guide/topics/ui/declaring-layout.html
+https://developer.android.com/reference/kotlin/android/view/View
+https://developer.android.com/reference/android/view/ViewGroup
+https://developer.android.com/guide/components/fragments?hl=ko
