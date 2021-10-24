@@ -754,6 +754,10 @@ D4@카드의정석 우리카드 . 할인 방법
 
 1. URL 
 
+- webview ( javascript <-> android ) 
+https://indra17.tistory.com/entry/android-webview%EB%A1%9C-javascript-%ED%98%B8%EC%B6%9C-%EB%B0%8F-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%B0%9B%EA%B8%B0
+
+
 - debbuger
 https://developer.android.com/codelabs/android-training-using-debugger?index=..%2F..%2Fandroid-training&hl=ko#2
 
